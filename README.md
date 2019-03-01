@@ -1,9 +1,6 @@
----
-tags:
-  - README
----
 
-github pages + hexo = blog
+
+github pages + hexo = markdown blog
 --
 
 markdownファイルをローカルでhtmlファイルへ変換し、githubへデプロイする流れ
